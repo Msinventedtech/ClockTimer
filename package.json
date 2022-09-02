@@ -1,6 +1,6 @@
 {
   "name": "timer",
-  "homepage": "https://github.com/Msinventedtech/ClockTimer.git",
+  "homepage": "https://github.com/Msinventedtech/ClockTimer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

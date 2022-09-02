@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Msinventedtech/ClockTimer.git/static/css/main.b899ec33.css",
+    "main.js": "/Msinventedtech/ClockTimer.git/static/js/main.6a2a032b.js",
+    "static/js/787.8e9e615b.chunk.js": "/Msinventedtech/ClockTimer.git/static/js/787.8e9e615b.chunk.js",
+    "index.html": "/Msinventedtech/ClockTimer.git/index.html",
+    "main.b899ec33.css.map": "/Msinventedtech/ClockTimer.git/static/css/main.b899ec33.css.map",
+    "main.6a2a032b.js.map": "/Msinventedtech/ClockTimer.git/static/js/main.6a2a032b.js.map",
+    "787.8e9e615b.chunk.js.map": "/Msinventedtech/ClockTimer.git/static/js/787.8e9e615b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b899ec33.css",
+    "static/js/main.6a2a032b.js"
+  ]
+}

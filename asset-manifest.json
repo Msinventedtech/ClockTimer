@@ -1,15 +1,17 @@
 {
-  "files": {
-    "main.css": "/Msinventedtech/ClockTimer/static/css/main.b899ec33.css",
-    "main.js": "/Msinventedtech/ClockTimer/static/js/main.cad472e5.js",
-    "static/js/787.8e9e615b.chunk.js": "/Msinventedtech/ClockTimer/static/js/787.8e9e615b.chunk.js",
-    "index.html": "/Msinventedtech/ClockTimer/index.html",
-    "main.b899ec33.css.map": "/Msinventedtech/ClockTimer/static/css/main.b899ec33.css.map",
-    "main.cad472e5.js.map": "/Msinventedtech/ClockTimer/static/js/main.cad472e5.js.map",
-    "787.8e9e615b.chunk.js.map": "/Msinventedtech/ClockTimer/static/js/787.8e9e615b.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.b899ec33.css",
-    "static/js/main.cad472e5.js"
-  ]
+  "main.css": "/Msinventedtech/ClockTimer/static/css/main.2b558702.chunk.css",
+  "main.js": "/Msinventedtech/ClockTimer/static/js/main.056e6eae.chunk.js",
+  "main.js.map": "/Msinventedtech/ClockTimer/static/js/main.056e6eae.chunk.js.map",
+  "static/js/1.7d8a5b69.chunk.js": "/Msinventedtech/ClockTimer/static/js/1.7d8a5b69.chunk.js",
+  "static/js/1.7d8a5b69.chunk.js.map": "/Msinventedtech/ClockTimer/static/js/1.7d8a5b69.chunk.js.map",
+  "static/css/2.643f02d8.chunk.css": "/Msinventedtech/ClockTimer/static/css/2.643f02d8.chunk.css",
+  "static/js/2.5f6c0ea9.chunk.js": "/Msinventedtech/ClockTimer/static/js/2.5f6c0ea9.chunk.js",
+  "static/js/2.5f6c0ea9.chunk.js.map": "/Msinventedtech/ClockTimer/static/js/2.5f6c0ea9.chunk.js.map",
+  "runtime~main.js": "/Msinventedtech/ClockTimer/static/js/runtime~main.5483c70a.js",
+  "runtime~main.js.map": "/Msinventedtech/ClockTimer/static/js/runtime~main.5483c70a.js.map",
+  "static/css/main.2b558702.chunk.css.map": "/Msinventedtech/ClockTimer/static/css/main.2b558702.chunk.css.map",
+  "static/css/2.643f02d8.chunk.css.map": "/Msinventedtech/ClockTimer/static/css/2.643f02d8.chunk.css.map",
+  "index.html": "/Msinventedtech/ClockTimer/index.html",
+  "precache-manifest.ad89d6d889928d0d06494bc29fbfdcc5.js": "/Msinventedtech/ClockTimer/precache-manifest.ad89d6d889928d0d06494bc29fbfdcc5.js",
+  "service-worker.js": "/Msinventedtech/ClockTimer/service-worker.js"
 }
